@@ -1,0 +1,8 @@
+Block scope : variables declared inside a pair of curly braces cannot be acessed from outside the block.
+
+Function scope : variables declared inside  a function cannot be acessed from outside the function.
+
+Global scope : globally scoped variables can be acessed insidea block or function.
+
+closure : A closure is the combination of a function bundled together with references to its surrounding state.
+          Closures are created every time a function is created, at function creation time.
