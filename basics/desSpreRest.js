@@ -71,6 +71,6 @@ const employfullDetails={
 console.log(employfullDetails)
 const array ={...sfq}
 console.log("array: ",array)
-
+console.log("sfq :",sfq)
 const array2 ={sfq}
 console.log("array2: ",array2)
